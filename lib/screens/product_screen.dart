@@ -23,7 +23,7 @@ class ProductScreenState extends State<ProductScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       floatingActionButton: Padding(
-        padding: const EdgeInsets.all(20),
+        padding: const EdgeInsets.all(10),
         child: Container(
           height: 70,
           decoration: BoxDecoration(
@@ -183,12 +183,10 @@ class ProductScreenState extends State<ProductScreen> {
                         ),
                         const Text("(320 Review)"),
                         const Spacer(),
-                        const Expanded(
-                          child: Text(
-                            "(Seller: Nayem)",
-                            style: TextStyle(
-                                fontWeight: FontWeight.bold, fontSize: 20),
-                          ),
+                        const Text(
+                          "(Seller: Nayem)",
+                          style: TextStyle(
+                              fontWeight: FontWeight.bold, fontSize: 15),
                         ),
                       ],
                     ),
@@ -243,7 +241,7 @@ class ProductScreenState extends State<ProductScreen> {
                     ),
                     Text(widget.product.description),
                     const SizedBox(
-                      height: 20,
+                      height: 60,
                     ),
                   ],
                 ),
