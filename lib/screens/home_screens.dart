@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_ecommerce/constants.dart';
 import 'package:flutter_ecommerce/models/products.dart';
-import 'package:flutter_ecommerce/screens/categories.dart';
-import 'package:flutter_ecommerce/screens/search_field.dart';
+import 'package:flutter_ecommerce/widgets/categories.dart';
+import 'package:flutter_ecommerce/widgets/search_field.dart';
 import 'package:flutter_ecommerce/widgets/home_appbar.dart';
 import 'package:flutter_ecommerce/widgets/home_slider.dart';
 import 'package:flutter_ecommerce/widgets/products_card.dart';

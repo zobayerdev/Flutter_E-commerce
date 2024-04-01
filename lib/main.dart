@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_ecommerce/app_scroll_behavior.dart';
 import 'package:flutter_ecommerce/screens/home_screens.dart';
@@ -14,6 +13,7 @@ void main() => runApp(
         builder: (context) => MyApp(), // Wrap your app
       ),
     );
+
 // void main() {
 //   runApp(const MyApp());
 // }
