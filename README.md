@@ -1,16 +1,9 @@
-# flutter_ecommerce
+# Flutter_Ecommerce Shop UI
+### I have just create a Flutter UI for E-commerce apps.<br> Fill free to update it.
+![github_image](https://github.com/zobayerdev/Flutter_E-commerce/assets/74914169/48f60f09-c562-4593-844e-0171a5b80ded)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fill free to reach out me:- <br>
+facebook:- https://www.facebook.com/zobayer.hasan.nayem <br>
+gmail:- zobayer.dev@outlook.com <br>
+website:- https://www.trodev.com <br>
